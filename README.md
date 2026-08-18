@@ -1,5 +1,7 @@
 # rust-pds-cloudflare
 
+[![Use this template](https://img.shields.io/badge/Use%20this%20template-2ea44f?style=for-the-badge&logo=github)](https://github.com/Spirallex/rust-pds-cloudflare/generate)
+
 A GitHub **template** for running your own [AT Protocol](https://atproto.com) PDS
 (Personal Data Server) on **Cloudflare Workers**, in Rust. Click **"Use this
 template"**, run two scripts, and you have a live PDS — accounts and repos on
